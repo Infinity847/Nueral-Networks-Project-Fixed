@@ -1,0 +1,23 @@
+body {
+    text-align:center;
+    background-color:aquamarine;
+}
+.button {
+    background-color:blue;
+    color:rgb(127, 210, 238);
+}
+.text {
+    color:blue;
+    font-weight:bold;
+    font-family:arial;
+}
+.container {
+    background-color:aqua;
+    width:400px;
+    height:400px;
+}
+.output {
+    color:red;
+    font-weight:bold;
+    font-family:arial;
+}
